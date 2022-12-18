@@ -1,0 +1,25 @@
+p{
+    font-style: italic;
+    font: inline;
+}
+body{
+    background-image: linear-gradient( to botton white, black);
+
+}
+button{
+    color: rgb(14, 14, 14);
+    border-style:solid;
+    border-color: aliceblue;
+    background-color: rgb(255, 0, 0);
+   
+}
+a{
+    color: aqua;
+}
+input{
+    border-radius: 10px;
+}
+input:hover{
+    color: aqua;
+    background-color: black
+}
