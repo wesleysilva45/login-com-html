@@ -1,25 +1,24 @@
-p{
-    font-style: italic;
-    font: inline;
-}
+
 body{
-    background-image: linear-gradient( to botton white, black);
+    background-image: linear-gradient(45deg,#28E4FC,#1EAABD);
+}
+div{
+    
+    background-color: aliceblue;
+    border-radius: 67px;
+    height: 199px;
+    width: 200px;
+    h
+ 
 
 }
-button{
-    color: rgb(14, 14, 14);
-    border-style:solid;
-    border-color: aliceblue;
-    background-color: rgb(255, 0, 0);
-   
-}
-a{
-    color: aqua;
+h1{
+    text-align: center;
+    color: #28E4FC;
 }
 input{
-    border-radius: 10px;
-}
-input:hover{
-    color: aqua;
-    background-color: black
+    border: none;
+    outline: none;
+
+    
 }
