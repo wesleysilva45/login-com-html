@@ -3,22 +3,49 @@ body{
     background-image: linear-gradient(45deg,#28E4FC,#1EAABD);
 }
 div{
-    
-    background-color: aliceblue;
+    position:sticky;
+    top: 100px;
+    left: 400px;
+    background-color: rgb(178, 214, 246);
     border-radius: 67px;
-    height: 199px;
-    width: 200px;
-    h
+    height: 300px;
+    width: 300px;
+    
  
 
 }
 h1{
     text-align: center;
-    color: #28E4FC;
+    color: #087785;
 }
 input{
+    position: relative;
+    left: 40px;
+    text-overflow: clip;
+    
     border: none;
     outline: none;
-
+    border-radius: 70px;
+    height: 50px;
+    width: 200px;
+    text-align-last: center;
     
+    
+}
+button{
+    position:  relative;
+    left: 40px;
+    background-color: #28E4FC;
+    border: none;
+    outline: none;
+    border-radius: 70px;
+    height: 50px;
+    width: 200px;
+    
+    
+    
+}
+button:hover{
+    background-color: aliceblue;
+   
 }
